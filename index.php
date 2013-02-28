@@ -93,7 +93,7 @@ $('.stills').fancybox({
 //arrows    : false,
 nextClick : false,
 'margin' : 50,
-helpers : {thumbs : {width  : 28, height : 20}}
+helpers : {thumbs : {width  : 56, height : 40}}
 });
 $('.videos').fancybox({
 //prevEffect : 'none',

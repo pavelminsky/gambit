@@ -22,8 +22,8 @@ body {overflow: auto; height: 100%; min-width: 960px; min-height: 600px; backgro
 b, strong, h1, h2, h3, h4, h5, h6 {font-weight: normal; font-weight: 400;}
 i, em {font-style: normal;}
 
-a:link, a:visited {color: #624d24;}
-a:hover {color: #9c683a;}
+a:link, a:visited {color: #7a1700;}
+a:hover {color: #d93000;}
 
 .age {position: absolute; top: 10px; left: 10px; width: 50px; height: 50px; z-index: 2; background: url('/images/age.png') center center no-repeat;}
 
@@ -45,7 +45,8 @@ a.stills:hover {opacity: 0.80; -moz-opacity: 0.80; -khtml-opacity: 0.80; filter:
 .counters_list p {padding: 0; margin: 0; padding-bottom: 6px; font-size: 11px; color: #3e4548;}
 #counters:hover {bottom: 0;}
 
-.error_wrap {width: 600px; padding-top: 60px; margin: 0 auto; text-align: center;}
-.error_wrap h1 {padding-bottom: 30px; font-size: 32px;}
-.error_wrap p {padding: 10px 10px 10px 10px; font-size: 14px; line-height: 18px;}
+
+.e_w {width: 600px; margin: 0 auto; text-align: center;}
+.e_i {width: 600px; height: 440px; background: url('/404/404.jpg') center center no-repeat;}
+.e_w p {padding: 5px; font-weight: normal; font-size: 16px;}
 
