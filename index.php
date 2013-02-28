@@ -1,39 +1,37 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head><title>Последнее изгнание дьявола: Второе пришествие — В кино с 1 марта</title>
+<head><title>Название — Дата</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="Последнее изгнание дьявола: Второе пришествие. Официальный сайт фильма. В кино с 1 марта.">
-<meta name="keywords" content="Последнее изгнание дьявола, Второе пришествие, The Last Exorcism Part II, ужасы, триллер, фильм, Эд Гасс-Доннели, Спенсер Трит Кларк, Эшли Белл, Эндрю Сенсениг, Джудд Лорманд, Джулия Гарнер">
+<meta name="description" content="Название. Официальный сайт фильма. Дата.">
+<meta name="keywords" content="Название, Title, жанры, фильм, режиссер, актеры">
 
-<meta property="og:title" content="Последнее изгнание дьявола: Второе пришествие - официальный сайт фильма">
-<meta property="og:description" content="Нелл, героиня первой части фильма, пытается начать новую жизнь. Однако старое зло возвращается. С ещё более ужасным планом.">
+<meta property="og:title" content="Название - официальный сайт фильма">
+<meta property="og:description" content="Краткое описание">
 <meta property="og:type" content="movie">
-<meta property="og:url" content="http://www.lastexorcism2.ru">
-<meta property="og:image" content="http://www.lastexorcism2.ru/images/share.jpg">
-<meta property="og:site_name" content="Прекрасные создания - официальный сайт фильма">
+<meta property="og:url" content="http://www.url.ru">
+<meta property="og:image" content="http://www.url.ru/images/share.jpg">
+<meta property="og:site_name" content="Название - официальный сайт фильма">
 
 <meta name="viewport" content="width=990">
 <meta name="format-detection" content="telephone=no">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="apple-mobile-web-app-title" content="Изыди!">
-<meta name="google-site-verification" content="UZ0PMPnmp6bpeBzySISW3jqhu8neOj2y2cwi4xaAYWc" />
-<meta name='wmail-verification' content='d55a255c04d0520d' />
+<meta name="apple-mobile-web-app-title" content="Название">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="favicon.png">
 
-<meta itemprop="name" content="Последнее изгнание дьявола: Второе пришествие - официальный сайт фильма">
-<meta itemprop="description" content="Нелл, героиня первой части фильма, пытается начать новую жизнь. Однако старое зло возвращается. С ещё более ужасным планом.">
-<meta itemprop="image" content="http://www.lastexorcism2.ru/images/share.jpg">
+<meta itemprop="name" content="Название - официальный сайт фильма">
+<meta itemprop="description" content="Краткое описание.">
+<meta itemprop="image" content="http://www.url.ru/images/share.jpg">
 
 <link rel="stylesheet" href="/css/main.css">
 <link rel="stylesheet" type="text/css" href="/css/fancybox.css?v=2.1.1" media="screen">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<link href='http://fonts.googleapis.com/css?family=Playfair+Display+SC:400,400italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
 <link href="/css/video-js.css" rel="stylesheet">
 <script type="text/javascript" src="/js/video.js"></script>
@@ -47,7 +45,7 @@
 </head><body>
 
 <div class="age">&nbsp;</div>
-<div class="puzzle"><a href="/puzzle/">&nbsp;</a></div>
+
 
 <div class="wrap">
 
@@ -58,17 +56,16 @@
 	<div class="content clearfix">
 		<div class="left">&nbsp;</div>
 		<div class="right">
-			<p><b>Нелл находят в лесу</b> — грязную и напуганную, только что сбежавшую со страшного ритуала. Вся её семья погибла, и девушку отправляют в Новый Орлеан — приют для девочек. Там она попадает под присмотр терапевта Фрэнка Мерле. Жизнь вроде бы налаживается, Нелл влюбляется в местного мальчика, но в самый неподходящий момент демон вновь объявляется и вселяется в Нелл. Теперь он хочет от неё чего-то большего...</p>
-			<p style="color: #9d1e00;">Первый фильм вышел в прокат в 2010 году.</p>
-			<p style="color: #9d1e00;"><b>Второе пришествие Зла на российские экраны состоится 1 марта 2013 года.</b></p>
+			<p>12+</p>
+			<p>режиссер Майкл Хоффман</p><p>сценарий Джоэл Коэн, Итан Коэн</p><p>криминальная комедия</p><p>В главных ролях: Кэмерон Диаз, Алан Рикман, Колин Фёрт, Стэнли Туччи, Клорис Личмен, Анна Скеллерн, Том Кортни, Того Игава, Эрика ЛаРоуз, Танрох Ишида</p>
+			<p><b>"Гамбит"</b> — римейк одноименной криминальной комедии 1966 года.</p>
+			<p>Главный герой фильма — лондонский искусствовед Гарри Дин (<b>Колин Фёрт</b>). Авантюрист задумал обмануть богатого коллекционера Лайонела Шабандара (<b>Алан Рикман</b>), продав ему фальшивую картину Моне.</p>
+			<p>Для этого Гарри вступает в сговор с эксцентричной и разбитной девицей из Техаса по имени Пи-Джей Пузновски (<b>Камерон Диаз</b>). Пи-Джей не имеет никакого отношения к живописи — она работает на родео. Тем не менее, ей придется выдавать себя за женщину, чей дед спас картину из нацистской Германии в конце Второй мировой войны.</p>
 			<p>&nbsp;</p>
-			<p><b>Режиссёр:</b> Эд Гасс-Доннели</p>
-			<p><b>Сценарий:</b> Дэмьен Шазелл, Эд Гасс-Доннели</p>
-			<p><b>В ролях:</b> Спенсер Трит Кларк, Эшли Белл, Эндрю Сенсениг, Джудд Лорманд, Джулия Гарнер, Мьюз Уотсон, Э. Роджер Митчелл</p>
 		</div>
 	</div>
 
-	<p><a class="stills" data-fancybox-group="gallery_stills" href="/media/01.jpg"><img src="/media/01s.png" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/02.jpg"><img src="/media/02s.png" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/03.jpg"><img src="/media/03s.png" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/04.jpg"><img src="/media/04s.png" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/05.jpg"><img src="/media/05s.png" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/06.jpg"><img src="/media/06s.png" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/07.jpg"><img src="/media/07s.png" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/08.jpg"><img src="/media/08s.png" alt=""></a></p>
+	<p><a class="stills" data-fancybox-group="gallery_stills" href="/media/01.jpg"><img src="/media/01s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/02.jpg"><img src="/media/02s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/03.jpg"><img src="/media/03s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/04.jpg"><img src="/media/04s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/05.jpg"><img src="/media/05s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/06.jpg"><img src="/media/06s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/07.jpg"><img src="/media/07s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/08.jpg"><img src="/media/08s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/09.jpg"><img src="/media/09s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/10.jpg"><img src="/media/10s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/11.jpg"><img src="/media/11s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/12.jpg"><img src="/media/12s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/13.jpg"><img src="/media/13s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/14.jpg"><img src="/media/14s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/15.jpg"><img src="/media/15s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/16.jpg"><img src="/media/16s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/17.jpg"><img src="/media/17s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/18.jpg"><img src="/media/18s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/19.jpg"><img src="/media/19s.jpg" alt=""></a></p>
 
 	<div class="copy">&copy; 2013 &laquo;<a href="http://www.westvideo.ru">Вест Видео</a>&raquo;. Создание сайта: <a href="http://www.kg-design.ru/">КГ-Дизайн</a></div>
 
@@ -96,7 +93,7 @@ $('.stills').fancybox({
 //arrows    : false,
 nextClick : false,
 'margin' : 50,
-helpers : {thumbs : {width  : 50, height : 50}}
+helpers : {thumbs : {width  : 28, height : 20}}
 });
 $('.videos').fancybox({
 //prevEffect : 'none',
