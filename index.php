@@ -1,31 +1,31 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head><title>Название — Дата</title>
+<head><title>Гамбит — В кино с 7 марта</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="Название. Официальный сайт фильма. Дата.">
-<meta name="keywords" content="Название, Title, жанры, фильм, режиссер, актеры">
+<meta name="description" content="Гамбит. Официальный сайт фильма. В кино с 7 марта.">
+<meta name="keywords" content="Гамбит, Gambit, криминальная комедия, фильм, Майкл Хоффман, Камерон Диаз, Колин Ферт, Алан Рикман, Стэнли Туччи, братья Коэны, Джоэл Коэн, Итан Коэн">
 
-<meta property="og:title" content="Название - официальный сайт фильма">
-<meta property="og:description" content="Краткое описание">
+<meta property="og:title" content="Гамбит - официальный сайт фильма">
+<meta property="og:description" content="Искусствовед-авантюрист, звезда родео, злобный миллиардер и поддельное полотно Моне в римейке одноименной криминальной комедии!">
 <meta property="og:type" content="movie">
 <meta property="og:url" content="http://www.url.ru">
 <meta property="og:image" content="http://www.url.ru/images/share.jpg">
-<meta property="og:site_name" content="Название - официальный сайт фильма">
+<meta property="og:site_name" content="Гамбит - официальный сайт фильма">
 
 <meta name="viewport" content="width=990">
 <meta name="format-detection" content="telephone=no">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="apple-mobile-web-app-title" content="Название">
+<meta name="apple-mobile-web-app-title" content="Гамбит">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="favicon.png">
+<link rel="shortcut icon" href="/favicon.png">
 
-<meta itemprop="name" content="Название - официальный сайт фильма">
-<meta itemprop="description" content="Краткое описание.">
+<meta itemprop="name" content="Гамбит - официальный сайт фильма">
+<meta itemprop="description" content="Искусствовед-авантюрист, звезда родео, злобный миллиардер и поддельное полотно Моне в римейке одноименной криминальной комедии!">
 <meta itemprop="image" content="http://www.url.ru/images/share.jpg">
 
 <link rel="stylesheet" href="/css/main.css">
@@ -71,7 +71,6 @@
 
 	<div id="counters">
 		<div class="counters_list">
-		<p>Сюда изгнаны счетчики:</p>
 		<p>
 		<?php include ("counters_include.php"); ?>	
 		</p>
