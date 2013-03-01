@@ -44,7 +44,11 @@
 
 </head><body>
 
-<div class="age">&nbsp;</div>
+<div class="age noSelect">&nbsp;</div>
+<div class="testcornertl noSelect">&nbsp;</div>
+<div class="testcornertr noSelect">&nbsp;</div>
+<div class="testcornerdl noSelect">&nbsp;</div>
+<div class="testcornerdr noSelect">&nbsp;</div>
 
 
 <div class="wrap">

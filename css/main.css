@@ -25,11 +25,15 @@ i, em {font-style: normal;}
 a:link, a:visited {color: #7a1700;}
 a:hover {color: #d93000;}
 
-.age {position: absolute; top: 10px; left: 10px; width: 50px; height: 50px; z-index: 2; background: url('/images/age.png') center center no-repeat;}
+.age {position: absolute; top: 10px; left: 10px; width: 50px; height: 50px; z-index: 3; background: url('/images/age.png') center center no-repeat;}
+.testcornertl {position: fixed; top: 0px; left: 0px; width: 280px; height: 310px; z-index: 2; background: url('/images/testcornertl.jpg') center center no-repeat;}
+.testcornertr {position: fixed; top: 0px; right: 0px; width: 280px; height: 310px; z-index: 2; background: url('/images/testcornertr.jpg') center center no-repeat;}
+.testcornerdl {position: fixed; bottom: 0px; left: 0px; width: 280px; height: 310px; z-index: 2; background: url('/images/testcornerdl.jpg') center center no-repeat;}
+.testcornerdr {position: fixed; bottom: 0px; right: 0px; width: 280px; height: 310px; z-index: 2; background: url('/images/testcornerdr.jpg') center center no-repeat;}
 
 .wrap {width: 880px; margin: 0 auto; text-align: center; font-size: 80%;}
 
-.top {width: 800px; height: 300px; margin: 0 auto; background: url('/images/top_text.png') center top no-repeat;}
+.top {width: 880px; height: 500px; margin: 0 auto; background: url('/images/testtop.jpg') center top no-repeat;}
 
 .content {width: 870px; margin: 0 auto; padding: 20px 0 20px 0; text-align: center;}
 .content .left {float: left; width: 420px; height: 500px; padding-right: 10px; background: url('/images/right_bg.png') center center no-repeat;}
@@ -38,7 +42,7 @@ a:hover {color: #d93000;}
 
 a.stills:hover {opacity: 0.80; -moz-opacity: 0.80; -khtml-opacity: 0.80; filter: alpha(opacity=80);}
 
-.copy {padding: 80px 10px 20px 10px; font-size: 100%; color: #474e51; text-align: center; opacity: 0.70; -moz-opacity: 0.70; -khtml-opacity: 0.70; filter: alpha(opacity=70);}
+.copy {padding: 80px 10px 20px 10px; font-size: 100%; color: #474e51; text-align: center;}
 
 #counters {position: fixed; bottom: -160px; right: 40px; z-index: 1005; width: 140px; height: 180px; text-align: right; background-image:url('/images/counters.png'); background-position: right top; background-repeat: no-repeat;}
 .counters_list {padding-top: 30px; opacity: 0.40; -moz-opacity: 0.40; -khtml-opacity: 0.40; filter: alpha(opacity=40);}
