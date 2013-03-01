@@ -80,7 +80,7 @@ $('.dim').fadeOut(500);
 	<p>&nbsp;</p>
 	<p style="font-size: 0.8em; padding-bottom: 6px; line-height: 1.2em;"><b>Режиссер:</b> Майкл Хоффман</p>
 	<p style="font-size: 0.8em; padding-bottom: 6px; line-height: 1.2em;"><b>Сценаристы:</b> Джоэл Коэн и Итан Коэн</b>
-	<p style="font-size: 0.8em; padding-bottom: 6px; line-height: 1.2em;"><b>В ролях:</b> В главных ролях: Кэмерон Диаз, Алан Рикман, Колин Фёрт, Стэнли Туччи, Клорис Личмен, Анна Скеллерн, Том Кортни, Того Игава, Эрика ЛаРоуз, Танрох Ишида</p>
+	<p style="font-size: 0.8em; padding-bottom: 6px; line-height: 1.2em;"><b>В ролях:</b> Кэмерон Диаз, Алан Рикман, Колин Фёрт, Стэнли Туччи, Клорис Личмен, Анна Скеллерн, Том Кортни, Того Игава, Эрика ЛаРоуз, Танрох Ишида</p>
 	</div>
 
 </div>
