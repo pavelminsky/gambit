@@ -1,4 +1,4 @@
 RewriteEngine on
 
 DirectoryIndex index.php
-ErrorDocument 404 http://www.lastexorcism2.ru/404/
+ErrorDocument 404 http://www.gambitmovie.ru/404/
