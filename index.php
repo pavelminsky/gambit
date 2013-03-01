@@ -53,10 +53,10 @@ $('.dim').fadeOut(500);
 <noscript><style>.dim {display: none;}</style></noscript>
 <div class="dim">&nbsp;</div>
 
-<div class="header">
-	<div class="cul noselect">&nbsp;</div>
+<div class="header noselect">
+	<div class="cul">&nbsp;</div>
 	<div class="cover">&nbsp;</div>
-	<div class="cur noselect">&nbsp;</div>
+	<div class="cur">&nbsp;</div>
 </div>
 
 
@@ -92,14 +92,14 @@ $('.dim').fadeOut(500);
 
 <div id="counters"><div class="counters_list"><?php include ("counters_include.php"); ?></div></div>
 
-<div class="footer">
-	<div class="cdl noselect">&nbsp;</div>
+<div class="footer noselect">
+	<div class="cdl">&nbsp;</div>
 
 	<div class="gallery"><p><a class="stills" data-fancybox-group="gallery_stills" href="/media/01.jpg"><img src="/media/01s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/02.jpg"><img src="/media/02s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/03.jpg"><img src="/media/03s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/04.jpg"><img src="/media/04s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/05.jpg"><img src="/media/05s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/06.jpg"><img src="/media/06s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/07.jpg"><img src="/media/07s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/08.jpg"><img src="/media/08s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/09.jpg"><img src="/media/09s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/10.jpg"><img src="/media/10s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/11.jpg"><img src="/media/11s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/12.jpg"><img src="/media/12s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/13.jpg"><img src="/media/13s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/14.jpg"><img src="/media/14s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/15.jpg"><img src="/media/15s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/16.jpg"><img src="/media/16s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/17.jpg"><img src="/media/17s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/18.jpg"><img src="/media/18s.jpg" alt=""></a><a class="stills" data-fancybox-group="gallery_stills" href="/media/19.jpg"><img src="/media/19s.jpg" alt=""></a></p></div>
 
 	<div class="copy">&copy; 2013 &laquo;<a href="http://www.westvideo.ru">Вест Видео</a>&raquo;. Создание сайта: <a href="http://www.kg-design.ru/">КГ-Дизайн</a></div>
 
-	<div class="cdr noselect">&nbsp;</div>
+	<div class="cdr">&nbsp;</div>
 </div>
 
 <!-- Fancybox -->
