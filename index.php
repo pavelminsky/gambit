@@ -48,6 +48,11 @@ $('.dim').fadeOut(500);
 .vjs-default-skin .vjs-current-time-display, .vjs-default-skin .vjs-remaining-time-display {font: normal 10px Arial; color: #6f7374; text-shadow: none;}
 </style>
 
+<meta name='wmail-verification' content='c4e98587352b7f4d' />
+<meta name="msvalidate.01" content="BA8384586740DC05834E57B6B5DAB8B5" />
+<meta name='yandex-verification' content='45f5aad489aba223' />
+<meta name="google-site-verification" content="UXf09ugc39bEsld90SGyQ2D4LurnEAJDiEzd4GmBHhY" />
+
 </head><body>
 
 <noscript><style>.dim {display: none;}</style></noscript>
@@ -59,36 +64,20 @@ $('.dim').fadeOut(500);
 	<div class="cur">&nbsp;</div>
 </div>
 
+<div id="gambit_russiantrailer_550" style="width: 800px; height: 335px; margin: 0 auto;"><video class="video-js vjs-default-skin" controls preload="auto" width="800" height="335" poster="/video/gambit_russiantrailer_550.jpg" data-setup="{}"><source src="http://www.gambitmovie.ru/video/gambit_russiantrailer_550.mp4" type='video/mp4'><source src="http://www.gambitmovie.ru/video/gambit_russiantrailer_550.ogv" type='video/ogg'></video></div>
 
-
-
-
-
-<!-- Говнокод -->
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-<div id="lastexorcism2_russiantrailer_550" style="width: 800px; height: 335px; margin: 0 auto;"><video class="video-js vjs-default-skin" controls preload="auto" width="800" height="335" poster="/video/gambit_russiantrailer_550.jpg" data-setup="{}"><source src="http://www.gambitmovie.ru/video/gambit_russiantrailer_550.mp4" type='video/mp4'><source src="http://www.gambitmovie.ru/video/gambit_russiantrailer_550.ogv" type='video/ogg'></video></div>
-
-<div class="tempwrap clearfix" style="width: 780px; margin: 30px auto 40px auto; text-align: center;">
-
-	<div class="temptrailer" style="float: left; width: 200px; height: 200px; background: url('/images/age.png') center center no-repeat;">&nbsp;</div>
-
-	<div class="tempinfo" style="float: right; width: 580px; margin: 20px 0 20px 0; font-size: 1em; line-height: 1.5em; text-align: left; text-shadow: 0 1px 1px #ffffff;">
-	<p style="padding-bottom: 8px; text-indent: -0.6em;"><b>&laquo;Гамбит&raquo;</b> — римейк одноименной криминальной комедии 1966 года.</p>
-	<p style="padding-bottom: 8px;">Главный герой фильма — лондонский искусствовед Гарри Дин (<b>Колин Фёрт</b>). Авантюрист задумал обмануть богатого коллекционера Лайонела Шабандара (<b>Алан Рикман</b>), продав ему фальшивую картину Моне.</p>
-	<p>Для этого Гарри вступает в сговор с эксцентричной и разбитной девицей из Техаса по имени Пи-Джей Пузновски (<b>Кэмерон Диаз</b>). Пи-Джей не имеет никакого отношения к живописи — она выступает на родео. Тем не менее, ей придется выдавать себя за женщину, чей дед спас полотно Моне из нацистской Германии в конце Второй мировой войны.</p>
-	<p>&nbsp;</p>
-	<p style="font-size: 0.8em; padding-bottom: 6px; line-height: 1.2em;"><b>Режиссер:</b> Майкл Хоффман</p>
-	<p style="font-size: 0.8em; padding-bottom: 6px; line-height: 1.2em;"><b>Сценаристы:</b> Джоэл Коэн и Итан Коэн</b>
-	<p style="font-size: 0.8em; padding-bottom: 6px; line-height: 1.2em;"><b>В ролях:</b> Кэмерон Диаз, Алан Рикман, Колин Фёрт, Стэнли Туччи, Клорис Личмен, Анна Скеллерн, Том Кортни, Того Игава, Эрика ЛаРоуз, Танрох Ишида</p>
+<div class="about">
+	<div class="story">
+		<p style="text-indent: -0.6em;"><b>&laquo;Гамбит&raquo;</b> — римейк одноименной криминальной комедии 1966 года.</p>
+		<p>Главный герой фильма — лондонский искусствовед Гарри Дин (<b>Колин Фёрт</b>). Авантюрист задумал обмануть богатого коллекционера Лайонела Шабандара (<b>Алан Рикман</b>), продав ему фальшивую картину Моне.</p>
+		<p>Для этого Гарри вступает в сговор с эксцентричной и разбитной девицей из Техаса по имени Пи-Джей Пузновски (<b>Кэмерон Диаз</b>). Пи-Джей не имеет никакого отношения к живописи — она выступает на родео. Тем не менее, ей придётся выдавать себя за женщину, чей дед спас полотно Моне из нацистской Германии в конце Второй мировой.</p>
 	</div>
-
+	<div class="cast">
+		<p><b>Режиссер:</b> Майкл Хоффман</p>
+		<p><b>Сценаристы:</b> Джоэл Коэн и Итан Коэн</b>
+		<p><b>В ролях:</b> Кэмерон Диаз, Алан Рикман, Колин Фёрт, Стэнли Туччи, Клорис Личмен, Анна Скеллерн, Том Кортни, Того Игава, Эрика ЛаРоуз, Танрох Ишида</p>
+	</div>
 </div>
-<!-- //Говнокод -->
-
-
-
-
 
 <div id="counters"><div class="counters_list"><?php include ("counters_include.php"); ?></div></div>
 
@@ -116,14 +105,6 @@ $('.stills').fancybox({
 nextClick : false,
 'margin' : 50,
 helpers : {thumbs : {width  : 56, height : 40}}
-});
-$('.videos').fancybox({
-//prevEffect : 'none',
-//nextEffect : 'none',
-//closeBtn  : false,
-arrows    : false,
-nextClick : false,
-helpers : {thumbs : {width  : 90, height : 50}}
 });
 });
 </script>

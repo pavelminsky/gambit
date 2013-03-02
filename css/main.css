@@ -27,6 +27,7 @@ a:hover {color: #d93000;}
 .e_w p {padding: 5px; font-weight: normal; font-size: 16px;}
 
 .header, .footer {position: relative; width: 100%; min-height: 130px; margin: 0 auto; text-align: center;}
+.header {padding-bottom: 25px;}
 
 .cul, .cur, .cdr, .cdl {position: absolute; width: 130px; height: 130px; background-image: url('/images/nomonet.png');}
 .cul {top: 0; left: 0; background-position: 0 0;}
@@ -34,7 +35,14 @@ a:hover {color: #d93000;}
 .cdl {bottom: 0; left: 0; background-position: 0 -130px;}
 .cdr {bottom: 0; right: 0; background-position: -130px -130px;}
 
-.cover {width: 880px; height: 500px; margin: 0 auto; background: url('/images/cover.jpg') center top no-repeat;}
+.cover {width: 880px; height: 520px; margin: 0 auto; background: url('/images/cover.jpg') center top no-repeat;}
+
+.about {width: 780px; margin: 30px auto 40px auto; text-align: left; background: url('/images/age.png') left top no-repeat;}
+.story, .cast {margin-left: 160px;}
+.story {padding-bottom: 15px; font-size: 1em; line-height: 1.5em;}
+.story p {padding-bottom: 8px;}
+.cast {font-size: 0.85em; line-height: 1.2em;}
+.cast p {padding-bottom: 6px;}
 
 #counters {position: fixed; bottom: -120px; right: 160px; z-index: 3; width: 140px; height: 140px; text-align: right; background: url('/images/counters.png') right top no-repeat;}
 .counters_list {padding-top: 30px; opacity: 0.40; -moz-opacity: 0.40; -khtml-opacity: 0.40; filter: alpha(opacity=40);}
